@@ -1,6 +1,10 @@
 ### Hi there 👋
 
-### I'm python backend developer
+### I am a Python developer with experience working on his own projects and hackathons.
+### I have experience working in a team on several projects.
+### I studied development for 1.5 years using courses, articles on Habr, documentation and videos from YouTube.
+### My favorite authors on Habr: @yakvenalex, @sound_right.
+### I quickly learn new technologies and love complex tasks.
 
 ### Contacts:
 [![Telegram](https://img.shields.io/badge/-Telegram-333?style=for-the-badge&logo=telegram&logoColor=27A0D9)](https://t.me/germynic)
