@@ -6,12 +6,7 @@
 ### My favorite authors on Habr: @yakvenalex, @sound_right.
 ### I quickly learn new technologies and love complex tasks.
 
-### Contacts:
-[![Telegram](https://img.shields.io/badge/-Telegram-333?style=for-the-badge&logo=telegram&logoColor=27A0D9)](https://t.me/germynic)
-
 <hr>
-
-![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=germynic31&theme=discord_old_blurple)
 
 ### Tools:
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
@@ -31,3 +26,10 @@
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+
+### Contacts:
+[![Telegram](https://img.shields.io/badge/-Telegram-333?style=for-the-badge&logo=telegram&logoColor=27A0D9)](https://t.me/germynic)
+
+<hr>
+
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=germynic31&theme=discord_old_blurple)
