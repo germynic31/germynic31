@@ -2,7 +2,7 @@
 
 ### I am a Python developer with experience working on his own projects and hackathons.
 ### I have experience working in a team on several projects.
-### I studied development for 1.5 years using courses, articles on Habr, documentation and videos from YouTube.
+### I studied development for 2 years using courses, articles on Habr, documentation and videos from YouTube.
 ### My favorite authors on Habr: @yakvenalex, @sound_right.
 ### I quickly learn new technologies and love complex tasks.
 
